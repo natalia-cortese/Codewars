@@ -1,1 +1,1 @@
-Scripts written to complete codewars challenges.
+Scripts written to complete Codewars challenges.
