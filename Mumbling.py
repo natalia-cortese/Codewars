@@ -1,5 +1,5 @@
 """
-Challenge: Create function which transforms letters according to patter.
+Challenge: Create function which transforms letters according to pattern.
 """
 
 def accum(s):
