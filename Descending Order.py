@@ -7,3 +7,9 @@ Essentially, rearrange the digits to create the highest possible number.
 def Descending_Order(num):
 	reversedNum=''.join(sorted(str(num), reverse=True))
 	return int(reversedNum)
+
+solution = Descending_Order(12839171946124)
+print(solution)
+
+solution2 = Descending_Order(1112222333)
+print(solution2)
